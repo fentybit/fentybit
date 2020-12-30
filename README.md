@@ -1,4 +1,4 @@
-## :earth_americas: Hello, World!
+## :earth_americas:	Hello, World!
 
 <div align="center">
   <img src="./icons/main.gif">
@@ -14,12 +14,12 @@ Hello, World! I am Fenty, a software engineer, architect and problem-solving lov
 > “Collaboration is an important part of the process, and ego is never a part of it.” 
 > – Mack Wilberg
 <p>
-  <strong>Feel free to reach out!</strong>
+  <strong>Feel free to reach out!</strong><br>
   <a href="https://www.linkedin.com/in/fentyhall/">LinkedIn</a> :: <a href="https://twitter.com/codinghall">Twitter</a> :: <a href="https://dev.to/codinghall">DEV</a>
 </p>
 
 
-#### :pencil2: presently working on
+#### :pencil2:	presently working on
 <ul>
   <li>Ruby on Rails :: Flatiron School
   <li>iOS and Swift :: <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
