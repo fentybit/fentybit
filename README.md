@@ -4,7 +4,7 @@
   My name is Fenty Hall.
 </p>
 
----
+--
 
 <p align="center">01000110 01100101 01101110 01110100 01111001</p>
 <p align="center">01001000 01100001 01101100 01101100</p>
@@ -12,7 +12,7 @@
 
 
 ### current hussle and bustle
----
+----
 <ul>
   <li>Ruby on Rails
   <li>iOS and Swift - <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
