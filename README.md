@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 <p></p>
 
 <h4>Current hussle and bustle</h4>
-```
+
 <ul>
+  - [x] this is a complete item
   <li><input disabled="" type="checkbox"> Ruby on Rails</li>
   <li><input checked="" disabled="" type="checkbox"> iOS and Swift - <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a></li>
   <li><input checked="" disabled="" type="checkbox"> Data Structures and Algorithm</li>
 </ul
-```
+
 
 <details>Some other facts about me
