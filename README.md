@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>01000110 01100101 01101110 01110100 01111001 
-<center>01001000 01100001 01101100 01101100
+<center>01000110 01100101 01101110 01110100 01111001</center>
+<center>01001000 01100001 01101100 01101100</center>
 	
 <details>Some other facts about me
