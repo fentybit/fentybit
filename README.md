@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center">01000110 01100101 01101110 01110100 01111001</p>
 <p align="center">01001000 01100001 01101100 01101100</p>
 
-<h2>![Example](./icons/earth.svg) Hello, World!</h2>
+<h2><img src="./icons/earth.svg"></img> Hello, World!</h2>
 <p></p>
 
 <h2>Current hussle and bustle</h2>
