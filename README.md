@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <p></p>
 
 <h2>Current hussle and bustle</h2>
-<p>[ ] Ruby on Rails</p>
-<p>[ ] iOS and Swift - <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a></p>
-<p>[ ] Data Structures and Algorithm</p>
+<p>- [ ] Ruby on Rails</p>
+<p>- [ ] iOS and Swift - <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a></p>
+<p>- [ ] Data Structures and Algorithm</p>
 
 <details>Some other facts about me
