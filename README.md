@@ -4,8 +4,6 @@
   My name is Fenty Hall.
 </p>
 
----
-
 <p align="center">01000110 01100101 01101110 01110100 01111001</p>
 <p align="center">01001000 01100001 01101100 01101100</p>
 
@@ -22,7 +20,7 @@
 ### 
 
 <details>
-  <summary>**In my free time..**</summary>
+  <summary><strong>In my free time..</strong></summary>
   <ul>
     <li>:egg: Cooking</li>
     <li>:dog2: Hike with my <a href="https://www.instagram.com/shibaogram/">Doge</a></li>
