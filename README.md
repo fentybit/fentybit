@@ -8,7 +8,9 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentyhall&layout=compact&theme=graywhite)](https://github.com/fentyhall/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentyhall&layout=compact&theme=graywhite&show_icons=true)](https://github.com/fentyhall/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fentyhall&theme=graywhite&show_icons=true)
 
 
 ### presently working on
