@@ -1,4 +1,4 @@
-> :earth_americas:	  Hello, World!
+### :earth_americas: Hello, World!
 
 <p>
   My name is Fenty Hall.
@@ -11,18 +11,18 @@
 
 
 
-### Current hussle and bustle
+### current hussle and bustle
 ---
 <ul>
-  <li><input disabled=" " type="checkbox"> Ruby on Rails
-  <li><input checked="" disabled="" type="checkbox"> iOS and Swift - <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
-  <li><input checked="" disabled="" type="checkbox"> Data Structures and Algorithm
+  <li>Ruby on Rails
+  <li>iOS and Swift - <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
+  <li>Data Structures and Algorithm
   <li>
-</ul
+</ul>
 
 
 <details>
-  Some other facts about me
+  In my free time..
 </details>
 
 <!--
