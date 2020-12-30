@@ -11,8 +11,7 @@
 
 
 
-#### current hussle and bustle
----
+### presently working on
 <ul>
   <li>Ruby on Rails
   <li>iOS and Swift - <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
@@ -20,9 +19,15 @@
   <li>
 </ul>
 
+### 
 
 <details>
   <summary>In my free time..</summary>
+  <ul>
+    <li>:egg: Cooking</li>
+    <li>:dog2: Hike with my <a href="https://www.instagram.com/shibaogram/">Doge</a></li>
+    <li>:books: Reading: currently on Mindset: The New Psychology of Success by Carol Dweck</li>
+  <ul>
 </details>
 
 <!--
