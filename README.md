@@ -16,13 +16,13 @@
   <li>Ruby on Rails
   <li>iOS and Swift - <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
   <li>Data Structures and Algorithm
-  <li>
+  <li>Documenting my coding journey || <a href="https://dev.to/codinghall">Check out my blog!</a></li>
 </ul>
 
 ### 
 
 <details>
-  <summary>In my free time..</summary>
+  <summary>**In my free time..**</summary>
   <ul>
     <li>:egg: Cooking</li>
     <li>:dog2: Hike with my <a href="https://www.instagram.com/shibaogram/">Doge</a></li>
