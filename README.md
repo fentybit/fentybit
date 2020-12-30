@@ -1,7 +1,7 @@
 ## :earth_americas: Hello, World!
 
 <div align="center">
-  <img src="./fentyhall/icons/main.gif">
+  <img src="./icons/main.gif">
 </div>  
   
 <p align="center">01000110 01100101 01101110 01110100 01111001</p>
