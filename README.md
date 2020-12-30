@@ -8,9 +8,23 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentyhall&layout=compact&theme=graywhite&show_icons=true)](https://github.com/fentyhall/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentyhall&layout=compact)](https://github.com/fentyhall/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fentyhall&theme=graywhite&show_icons=true)
+
+<a href="https://github.com/fentyhall/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fentyhall&layout=compact" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=fentyhall&theme=graywhite&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fentyhall&theme=graywhite&show_icons=true" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
 ### presently working on
