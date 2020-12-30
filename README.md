@@ -4,8 +4,10 @@
   <img src="./icons/main.gif">
 </div>  
   
-<p align="center">01000110 01100101 01101110 01110100 01111001</p>
-<p align="center">01001000 01100001 01101100 01101100</p>
+<p align="center">
+  01000110 01100101 01101110 01110100 01111001<br>
+  01001000 01100001 01101100 01101100
+</p>
 
 <p>
 Hello, World! I am Fenty, a software engineer, architect and problem-solving lover. I have fascination in building things since when I was little, from arts and crafts, high-school science projects, and assembling built-construction. I found a new passion in programming, which aligns with my true interest in analytical thinking. July 2020 marks the inception of my journey of becoming who I want to be, a software engineer. I enrolled myself to Flatiron School Software Engineering program. I believe the core principles of Architecture and my backgrounds in Mathematics will be a good catalyst to deep dive in the programming realm. I am excited to contribute my past skills and experiences into this exciting tech world!
