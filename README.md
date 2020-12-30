@@ -22,7 +22,7 @@
 
 
 <details>
-  In my free time..
+  <summary>In my free time..</summary>
 </details>
 
 <!--
