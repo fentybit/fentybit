@@ -11,11 +11,11 @@ Hello, World! I am Fenty, a software engineer, architect and problem-solving lov
 > – Mack Wilberg
 <p>
   <strong>Feel free to reach out!</strong>
-  
+  <a href="https://www.linkedin.com/in/fentyhall/">LinkedIn</a> :: <a href="https://twitter.com/codinghall">Twitter</a> :: <a href="https://dev.to/codinghall">DEV</a>
 </p>
 
 
-### :pencil2: presently working on
+#### :pencil2: presently working on
 <ul>
   <li>Ruby on Rails :: Flatiron School
   <li>iOS and Swift :: <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
