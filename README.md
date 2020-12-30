@@ -20,7 +20,7 @@ Hello, World! I am Fenty, a software engineer, architect and problem-solving lov
 
 <p>
   <strong>feel free to reach out!</strong><br>
-  <a href="https://www.linkedin.com/in/fentyhall/" target="_top">LinkedIn</a> :: <a href="https://twitter.com/codinghall" target="_blank">Twitter</a> :: <a href="https://dev.to/codinghall" target="_blank">DEV</a>
+  <a href="https://www.linkedin.com/in/fentyhall/" target="_blank">LinkedIn</a> :: <a href="https://twitter.com/codinghall" target="_blank">Twitter</a> :: <a href="https://dev.to/codinghall" target="_blank">DEV</a>
 </p>
 
 
