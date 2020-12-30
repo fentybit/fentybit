@@ -6,9 +6,13 @@
 <p align="center">01001000 01100001 01101100 01101100</p>
 
 ### :earth_americas:   Hello, World!
-<p></p>
+
+<p>
+  My name is Fenty Hall.
+</p>
 
 ### Current hussle and bustle
+
 <ul>
   <li><input disabled=" " type="checkbox"> Ruby on Rails
   <li><input checked="" disabled="" type="checkbox"> iOS and Swift - <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
