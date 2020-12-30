@@ -7,19 +7,6 @@
   Hello, World! I am Fenty, a software engineer, architect and problem-solving lover. I have fascination in building things since when I was little, from arts and crafts, high-school science projects, and assembling built-construction. I found a new passion in programming, which aligns with my true interest in analytical thinking. July 2020 marks the inception of my journey of becoming who I want to be, a software engineer. I enrolled myself to Flatiron School Software Engineering program. I believe the core principles of architecture and my backgrounds in Mathematics will be a good catalyst to deep dive in the programming realm. I am excited to contribute my past skills and experiences into this exciting tech world!
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentyhall&layout=compact&theme=graywhite&show_icons=true)](https://github.com/fentyhall/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fentyhall&theme=graywhite&show_icons=true)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
 ### presently working on
 <ul>
   <li>Ruby on Rails :: Flatiron School
@@ -38,6 +25,17 @@
     <li>:books: Reading, currently on Mindset: The New Psychology of Success by Carol Dweck</li>
   <ul>
 </details>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentyhall&layout=compact&theme=graywhite&show_icons=true)](https://github.com/fentyhall/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fentyhall&theme=graywhite&show_icons=true)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <!--
 **fentyhall/fentyhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
