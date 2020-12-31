@@ -4,7 +4,7 @@
   <img src="./icons/main.gif">
 </div> 
 
----
+<br>
   
 <p align="center">
   01000110 01100101 01101110 01110100 01111001<br>
