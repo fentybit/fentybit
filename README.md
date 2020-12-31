@@ -36,7 +36,7 @@ Hello, World! I am Fenty, a software engineer, architect and problem-solving lov
 </ul>
 
 <details>
-  <summary><strong>In my free time.. I love</strong></summary>
+  <summary><i>In my free time.. I love</i></summary>
   <ul>
     <li>:stew: Cooking</li>
     <li>:dog2: Hiking with my <a href="https://www.instagram.com/shibaogram/">Doge</a></li>
