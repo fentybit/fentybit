@@ -21,21 +21,20 @@ Hello, World! I am Fenty, a software engineer, architect and problem-solving lov
 
 <br>
 
+
+<strong>feel free to reach out!</strong><br>
 <p>
-  <strong>feel free to reach out!</strong><br>
   <a href="https://www.linkedin.com/in/fentyhall/" target="_blank">LinkedIn</a> :: <a href="https://twitter.com/codinghall" target="_blank">Twitter</a> :: <a href="https://dev.to/codinghall" target="_blank">DEV</a>
 </p>
 
 
 #### presently working on
-<p>
-  <ul>
-    <li>Ruby on Rails :: Flatiron School
-    <li>iOS and Swift :: <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
-    <li>Data Structures and Algorithm
-    <li>Documenting my coding journey :: <a href="https://dev.to/codinghall">Check out my blog!</a></li>
-  </ul>
-</p>
+<ul>
+  <li>Ruby on Rails :: Flatiron School
+  <li>iOS and Swift :: <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
+  <li>Data Structures and Algorithm
+  <li>Documenting my coding journey :: <a href="https://dev.to/codinghall">Check out my blog!</a></li>
+</ul>
 
 <details>
   <summary><i>In my free time.. I love</i></summary>
