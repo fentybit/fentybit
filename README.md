@@ -30,8 +30,6 @@ Hello, World! I am Fenty, a software engineer, architect and problem-solving lov
   <li>Documenting my coding journey :: <a href="https://dev.to/codinghall">Check out my blog!</a></li>
 </ul>
 
-<br>
-
 <details>
   <summary><i>In my free time.. I love</i></summary>
   <ul>
