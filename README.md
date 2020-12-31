@@ -2,7 +2,9 @@
 
 <div align="center">
   <img src="./icons/main.gif">
-</div>  
+</div> 
+
+---
   
 <p align="center">
   01000110 01100101 01101110 01110100 01111001<br>
