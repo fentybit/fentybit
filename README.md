@@ -25,8 +25,6 @@ Hello, World! I am Fenty, a software engineer, architect and problem-solving lov
   <a href="https://www.linkedin.com/in/fentyhall/" target="_blank">LinkedIn</a> :: <a href="https://twitter.com/codinghall" target="_blank">Twitter</a> :: <a href="https://dev.to/codinghall" target="_blank">DEV</a>
 </p>
 
-<br>
-
 #### presently working on
 <ul>
   <li>Ruby on Rails :: Flatiron School
