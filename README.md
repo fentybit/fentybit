@@ -12,7 +12,7 @@
 </p>
 
 <p>
-Hello, World! I am Fenty, a software engineer, architect and problem-solving lover. I have fascination in building things since when I was little, from arts and crafts, high-school science projects, and assembling built-construction. I found a new passion in programming, which aligns with my true interest in analytical thinking. July 2020 marks the inception of my journey of becoming who I want to be, a software engineer. I enrolled myself to Flatiron School Software Engineering program. I believe the core principles of Architecture and my backgrounds in Mathematics will be a good catalyst to deep dive in the programming realm. I am excited to contribute my past skills and experiences into this exciting tech world!
+Hello, World! I am Fenty, a software engineer, architect and problem solver. I have had a fascination for building things since I was young, from arts and crafts, high-school science projects, and assembling built-construction. I found a new passion in programming, which aligns with my true interest in analytical thinking. July 2020 marks the inception of my journey of becoming who I want to be, a software engineer. I enrolled myself to Flatiron School Software Engineering program. I believe the core principles of Architecture and my backgrounds in Mathematics will be a good catalyst to deep dive in the programming realm. I am excited to contribute my past skills and experiences into this exciting tech world!
 </p>
 
 > <p>“Collaboration is an important part of the process, and ego is never a part of it.” 
