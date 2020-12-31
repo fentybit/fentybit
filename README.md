@@ -28,7 +28,7 @@ I am Fenty, a software engineer, architect and problem solver. I have had a fasc
   <li>Ruby on Rails :: Flatiron School
   <li>iOS and Swift :: <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
   <li>Data Structures and Algorithm
-  <li>Documenting my coding journey :: <a href="https://dev.to/codinghall">Check out my blog!</a></li>
+  <li>Documenting my coding journey :: <a href="https://dev.to/codinghall">Check out my DEV blog!</a></li>
 </ul>
 
 <details>
