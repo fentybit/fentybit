@@ -19,6 +19,7 @@ Hello, World! I am Fenty, a software engineer, architect and problem-solving lov
 > <p>“Collaboration is an important part of the process, and ego is never a part of it.” 
 > – Mack Wilberg</p>
 
+<br>
 
 <p>
   <strong>feel free to reach out!</strong><br>
