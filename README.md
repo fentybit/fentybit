@@ -25,10 +25,15 @@ I am Fenty, an aspiring software engineer, architect and problem solver. I have 
 
 #### presently working on
 <ul>
-  <li>Ruby on Rails :: <a href="https://www.flatironschool.com">Flatiron School</a>
+  <li>DOM Programming and JavaScript :: <a href="https://www.flatironschool.com">Flatiron School</a>
   <li>iOS and Swift :: <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
-  <li>Data Structures and Algorithm
+  <li>Data Structures and Algorithm by Colt Steele
   <li>Documenting my coding journey :: <a href="https://dev.to/codinghall">Check out my DEV blog!</a></li>
+</ul>
+
+#### deployed projects
+<ul>
+  <li><a href="https://plan-my-md-visit.herokuapp.com/">Plan My MD Visit</a> :: Ruby on Rails app that lets patient seeking virtual medical assistance
 </ul>
 
 <details>
