@@ -33,6 +33,7 @@ I am Fenty, an aspiring software engineer, architect and problem solver. I have 
 
 #### deployed projects
 <ul>
+  <li><a href="https://lets-know-it-all.netlify.app/">Know It All</a> :: Single-Page Application (SPA) of a simple trivia game
   <li><a href="https://plan-my-md-visit.herokuapp.com/">Plan My MD Visit</a> :: Ruby on Rails app that lets patient seeking virtual medical assistance
 </ul>
 
