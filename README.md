@@ -27,13 +27,13 @@ I am Fenty, an aspiring software engineer, architect and problem solver. I have 
 <ul>
   <li>ReactJS :: <a href="https://www.flatironschool.com">Flatiron School</a>
   <li><a href="https://www.udemy.com/course/javascript-beginners-complete-tutorial/">The Modern Javascript Bootcamp Course (2021)</a>
-  <li><a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">Data Structures and Algorithm by Colt Steele
+  <li><a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">Data Structures and Algorithm by Colt Steele</a>
   <li>Documenting my coding journey :: <a href="https://dev.to/codinghall">Check out my DEV blog!</a></li>
 </ul>
 
 #### deployed projects
 <ul>
-  <li><a href="https://lets-know-it-all.netlify.app/">Know It All</a> :: Single-Page Application (SPA) of a simple trivia game
+  <li><a href="https://lets-know-it-all.netlify.app/">Know It All</a> :: Single-Page Application (SPA) with vanilla JS of a simple trivia game
   <li><a href="https://plan-my-md-visit.herokuapp.com/">Plan My MD Visit</a> :: Ruby on Rails app that lets patient seeking virtual medical assistance
 </ul>
 
