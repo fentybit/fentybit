@@ -25,9 +25,9 @@ I am Fenty, an aspiring software engineer, architect and problem solver. I have 
 
 #### presently working on
 <ul>
-  <li>DOM Programming and JavaScript :: <a href="https://www.flatironschool.com">Flatiron School</a>
-  <li>iOS and Swift :: <a href="https://www.udemy.com/course/ios-13-app-development-bootcamp/">The Complete iOS App Development Bootcamp</a>
-  <li>Data Structures and Algorithm by Colt Steele
+  <li>ReactJS :: <a href="https://www.flatironschool.com">Flatiron School</a>
+  <li><a href="https://www.udemy.com/course/javascript-beginners-complete-tutorial/">The Modern Javascript Bootcamp Course (2021)</a>
+  <li><a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">Data Structures and Algorithm by Colt Steele
   <li>Documenting my coding journey :: <a href="https://dev.to/codinghall">Check out my DEV blog!</a></li>
 </ul>
 
@@ -35,6 +35,11 @@ I am Fenty, an aspiring software engineer, architect and problem solver. I have 
 <ul>
   <li><a href="https://lets-know-it-all.netlify.app/">Know It All</a> :: Single-Page Application (SPA) of a simple trivia game
   <li><a href="https://plan-my-md-visit.herokuapp.com/">Plan My MD Visit</a> :: Ruby on Rails app that lets patient seeking virtual medical assistance
+</ul>
+
+#### udemy certificates
+<ul>
+  <li><a href="./udemy/JS_Understanding_the_Weird_Parts.jpg">JavaScript: Understanding the Weird Parts</a>
 </ul>
 
 <details>
