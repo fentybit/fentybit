@@ -40,6 +40,7 @@ I am Fenty, an aspiring software engineer, architect and problem solver. I have 
 #### udemy certificates
 <ul>
   <li><a href="./udemy/JS_Understanding_the_Weird_Parts.jpg">JavaScript: Understanding the Weird Parts</a>
+  <li><a href="./udemy/The_Coding_Interview_Bootcamp_DSA.jpg">The Coding Interview Bootcamp: Algorithms + Data Structures</a>
 </ul>
 
 <details>
