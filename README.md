@@ -21,14 +21,14 @@ I am Fenty, an aspiring software engineer, architect and problem solver. I have 
 
 <br>
 
-<strong>feel free to reach out!</strong> :: <a href="https://www.linkedin.com/in/fentyhall/" target="_blank">LinkedIn</a> :: <a href="https://twitter.com/codinghall" target="_blank">Twitter</a> :: <a href="https://dev.to/codinghall" target="_blank">DEV</a>
+<strong>feel free to reach out!</strong> :: <a href="https://www.linkedin.com/in/fentybit/" target="_blank">LinkedIn</a> :: <a href="https://twitter.com/fentybit" target="_blank">Twitter</a> :: <a href="https://dev.to/fentybit" target="_blank">DEV</a>
 
 #### presently working on
 <ul>
   <li>ReactJS :: <a href="https://www.flatironschool.com">Flatiron School</a>
   <li><a href="https://www.udemy.com/course/javascript-beginners-complete-tutorial/">The Modern Javascript Bootcamp Course (2021)</a>
   <li><a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">Data Structures and Algorithm by Colt Steele</a>
-  <li>Documenting my coding journey :: <a href="https://dev.to/codinghall">Check out my DEV blog!</a></li>
+  <li>Documenting my coding journey :: <a href="https://dev.to/fentybit">Check out my DEV blog!</a></li>
 </ul>
 
 #### deployed projects
@@ -55,6 +55,6 @@ I am Fenty, an aspiring software engineer, architect and problem solver. I have 
     
 ---
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentyhall&layout=compact&theme=graywhite&show_icons=true)](https://github.com/fentyhall/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentybit&layout=compact&theme=graywhite&show_icons=true)](https://github.com/fentybit/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fentyhall&theme=graywhite&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fentybit&theme=graywhite&show_icons=true)
