@@ -55,6 +55,6 @@ I am Fenty, an aspiring software engineer, architect and problem solver. I have 
     
 ---
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentybit&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentybit&layout=compact&theme=graywhite)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fentybit&show_icons=true&theme=graywhite)
