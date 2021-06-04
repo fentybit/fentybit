@@ -27,9 +27,9 @@ I am Fenty, an aspiring software engineer, architect and problem solver. I have 
 
 <ul>
   <li>GraphQL and React Native</a>
-  <li><a href="https://www.udemy.com/course/javascript-beginners-complete-tutorial/">The Modern Javascript Bootcamp Course (2021)</a>
+  <li><a href="https://javascript30.com/">30 Day Vanilla JS Challenge</a>
   <li><a href="https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/">Data Structures and Algorithm by Colt Steele</a>
-  <li>Documenting my coding journey :: <a href="https://dev.to/fentybit">Check out my DEV blog!</a></li>
+  <li>Reading Practical OOD in Ruby by Sandi Metz <em>(I am a slow reader)</em></li>
 </ul>
 
 #### deployed projects
