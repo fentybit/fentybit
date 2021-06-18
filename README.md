@@ -13,7 +13,7 @@
 
 <p>
 Hello, World!<br>
-I am Fenty, an aspiring software engineer, architect and problem solver. I have had a fascination for building things since I was young, from arts and crafts to high-school science projects, and assembling built-construction. I found my new passion in programming, which aligns with my true interest in analytical thinking. I began my journey in July 2020, enrolling in the Flatiron School Software Engineering program. I believe the core principles of Architecture and my background in Mathematics will be a good catalyst to my growth in the field of programming. I am excited to contribute my skills and past experiences to this new journey!
+I am Fenty, a Full Stack SWE at RE/MAX First, former architect and problem solver. I have had a fascination for building things since I was young, from arts and crafts to high-school science projects, and assembling built-construction. I found my new passion in programming, which aligns with my true interest in analytical thinking. I began my journey in July 2020, enrolling in the Flatiron School Software Engineering program. I believe the core principles of Architecture and my background in Mathematics will be a good catalyst to my growth in the field of programming. I am excited to contribute my skills and past experiences to this new journey!
 </p>
 
 > <p>“Collaboration is an important part of the process, and ego is never a part of it.” 
