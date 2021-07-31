@@ -40,15 +40,17 @@ I am Fenty, a Full Stack SWE at RE/MAX First, former architect and problem solve
   <li><a href="https://plan-my-md-visit.herokuapp.com/">Plan My MD Visit</a> :: Ruby on Rails app that lets patient seeking virtual medical assistance
 </ul>
 
-#### udemy certificates
-
-<ul>
-  <li><a href="./udemy/JS_Understanding_the_Weird_Parts.jpg">JavaScript: Understanding the Weird Parts</a>
-  <li><a href="./udemy/The_Coding_Interview_Bootcamp_DSA.jpg">The Coding Interview Bootcamp: Algorithms + Data Structures</a>
-</ul>
+<details>
+  <summary><i>udemy certificates</i></summary>
+    <ul>
+      <li><a href="./udemy/JS_Understanding_the_Weird_Parts.jpg">JavaScript: Understanding the Weird Parts</a>
+      <li><a href="./udemy/The_Coding_Interview_Bootcamp_DSA.jpg">The Coding Interview Bootcamp: Algorithms + Data Structures</a>
+      <li><a href="udemy/The_Git_and_GitHub_Bootcamp.jpeg">The Git & GitHub Bootcamp</a>
+    </ul>
+</details>
 
 <details>
-  <summary><i>In my free time.. I love</i></summary>
+  <summary><i>in my free time.. I love</i></summary>
   <ul>
     <li>:stew: Cooking</li>
     <li>:dog2: Hiking with my <a href="https://www.instagram.com/shibaogram/">Doge</a></li>
