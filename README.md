@@ -54,7 +54,7 @@ I am Fenty, a Full Stack SWE at RE/MAX First, former architect and problem solve
   <ul>
     <li>:stew: Cooking</li>
     <li>:dog2: Hiking with my <a href="https://www.instagram.com/shibaogram/">Doge</a></li>
-    <li>:basketball: Watching Lakers games, go Caruso!</li>
+    <li>:basketball: Go Lakers!</li>
     <li>:books: Reading</li>
   <ul>
 </details>
