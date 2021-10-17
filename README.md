@@ -46,6 +46,7 @@ I am Fenty, a Full Stack SWE at RE/MAX First, former architect and problem solve
       <li><a href="./udemy/JS_Understanding_the_Weird_Parts.jpg">JavaScript: Understanding the Weird Parts</a>
       <li><a href="./udemy/The_Coding_Interview_Bootcamp_DSA.jpg">The Coding Interview Bootcamp: Algorithms + Data Structures</a>
       <li><a href="udemy/The_Git_and_GitHub_Bootcamp.jpeg">The Git & GitHub Bootcamp</a>
+      <li><a href="udemy/The_Complete_Guide_with_React_Hook_Redux.jpeg">The Complete Guide with React Hook Redux</a>
     </ul>
 </details>
 
