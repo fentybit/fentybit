@@ -35,7 +35,3 @@ let myTechStack = {
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fentybit&show_icons=true&theme=graywhite)
 
 </details>
-
-<p></p>
-
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png?v8" height=16px >&nbsp;&nbsp;<em>check out my deployed projects</em>
