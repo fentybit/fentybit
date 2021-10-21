@@ -1,28 +1,22 @@
-## :earth_americas: Hello, World!
-
-<br>
-  
-<p align="center">
-  01000110 01100101 01101110 01110100 01111001<br>
-  01001000 01100001 01101100 01101100
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fentybit/" target="_blank">LinkedIn</a> :: <a href="https://twitter.com/fentybit" target="_blank">Twitter</a> :: <a href="https://dev.to/fentybit" target="_blank">DEV</a>
-</p>
+<h2>< 👋🏼 Hello, World! I'm Fenty. /></h2>
 
 ---
 
-#### deployed projects
+<p>
+  <a href="https://www.linkedin.com/in/fentybit/" target="_blank">LinkedIn</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://twitter.com/fentybit" target="_blank">Twitter</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://dev.to/fentybit" target="_blank">DEV</a>
+</p>
 
-<ul>
-  <li><a href="https://your-storybook.netlify.app/">Storybook</a> :: ReactJS/Redux Digital Journaling app 
-  <li><a href="https://lets-know-it-all.netlify.app/">Know It All</a> :: Single-Page Application (SPA) with vanilla JS of a simple trivia game
-  <li><a href="https://plan-my-md-visit.herokuapp.com/">Plan My MD Visit</a> :: Ruby on Rails app that lets patient seeking virtual medical assistance
-</ul>
+```js
+let myTechStack = {
+  languages: ["JavaScript", "TypeScript", "Ruby", "Swift", "GraphQL", "SQL", "HTML", "CSS"],
+  frameworks: ["Rails", "ReactJS", "React Native", "Redux", "Sinatra", "Bootstrap", "Material UI"],
+  industryTools: ["Command Line", "Git", "GitHub", "PostgreSQL", "SQLite"],
+  softwareTools: ["Adobe CC", "Autodesk Revit", "CAD", "Navisworks", "Vectorworks", "Figma"],
+};
+```
 
 <details>
-  <summary><i>udemy certificates</i></summary>
+  <summary><strong><img src="https://github.githubassets.com/images/icons/emoji/seedling.png?v8" height=18px >&nbsp;&nbsp;I am a voracious learner</strong></summary>
     <ul>
       <li><a href="./udemy/JS_Understanding_the_Weird_Parts.jpg">JavaScript: Understanding the Weird Parts</a>
       <li><a href="./udemy/The_Coding_Interview_Bootcamp_DSA.jpg">The Coding Interview Bootcamp: Algorithms + Data Structures</a>
@@ -30,9 +24,18 @@
       <li><a href="udemy/The_Complete_Guide_with_React_Hook_Redux.jpeg">The Complete Guide with React Hook Redux</a>
     </ul>
 </details>
-    
----
-    
+
+<p></p>
+
+<details>
+  <summary><strong>my&nbsp;&nbsp;<img src="https://github.githubassets.com/images/icons/emoji/octocat.png?v8" height=18px >&nbsp;&nbsp;stats</strong></summary>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fentybit&layout=compact&theme=graywhite)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fentybit&show_icons=true&theme=graywhite)
+
+</details>
+
+<p></p>
+
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png?v8" height=16px >&nbsp;&nbsp;<em>check out my deployed projects</em>
