@@ -8,7 +8,7 @@
 
 ```js
 let myTechStack = {
-  languages: ["JavaScript", "TypeScript", "Ruby", "Swift", "GraphQL", "SQL", "HTML", "CSS"],
+  languages: ["C", "JavaScript", "TypeScript", "Ruby", "Swift", "GraphQL", "SQL", "HTML", "CSS"],
   frameworks: ["Rails", "ReactJS", "React Native", "Redux", "Sinatra", "Bootstrap", "Material UI"],
   industryTools: ["Command Line", "Git", "GitHub", "PostgreSQL", "SQLite"],
   softwareTools: ["Adobe CC", "Autodesk Revit", "CAD", "Navisworks", "Vectorworks", "Figma"],
