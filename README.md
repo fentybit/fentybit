@@ -6,12 +6,12 @@
   <a href="https://www.linkedin.com/in/fentybit/" target="_blank">LinkedIn</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://twitter.com/fentybit" target="_blank">Twitter</a>&nbsp;&nbsp;•&nbsp;&nbsp;<a href="https://dev.to/fentybit" target="_blank">DEV</a>
 </p>
 
-```
+```js
 let myTechStack = {
-  languages: ["JavaScript", "TypeScript", "Ruby", "C", "Python", "Swift", "GraphQL", "SQL", "HTML", "CSS"],
-  frameworks: ["Rails", "ReactJS", "React Native", "Redux", "Sinatra", "Bootstrap", "Material UI"],
-  industryTools: ["Command Line", "Git", "GitHub", "PostgreSQL", "SQLite"],
-  softwareTools: ["Adobe CC", "Autodesk Revit", "CAD", "Navisworks", "Vectorworks", "Figma"],
+  languages: ["JavaScript", "TypeScript", "Ruby", "C", "Python", "GraphQL", "SQL", "HTML", "CSS"],
+  frameworks: ["React.js", "React Native", "Rails", "RSpec", "Node.js", "Jest"],
+  industryTools: ["PostgreSQL", "SQLite", "Sentry", "Datadog"],
+  others: ["Test-driven development", "Git/GitHub", "Figma", "Zeplin"],
 };
 ```
 
