@@ -1,4 +1,4 @@
-<h2>< 👋🏼 Hello, World! I'm Fenty. /></h2>
+<h2>< 👋🏼 Hello, World! I'm Fenty /></h2>
 
 ---
 
@@ -8,10 +8,10 @@
 
 ```js
 let myTechStack = {
-  languages: ["JavaScript", "TypeScript", "Ruby", "C", "Python", "GraphQL", "SQL", "HTML", "CSS"],
-  frameworks: ["React.js", "React Native", "Rails", "RSpec", "Node.js", "Jest"],
-  industryTools: ["PostgreSQL", "SQLite", "Sentry", "Datadog"],
-  others: ["Test-driven development", "Git/GitHub", "Figma", "Zeplin"],
+  languages: ["JavaScript", "TypeScript", "Ruby", "GraphQL", "SQL", "HTML", "CSS"],
+  frameworks: ["React.js", "React Native", "Jest", "Rails", "RSpec", "Node.js"],
+  industryTools: ["Docker", "MySQL Workbench", "Segment", "Sentry", "Datadog"],
+  others: ["Git", "Figma", "Zeplin", "test-driven development"],
 };
 ```
 
@@ -23,7 +23,7 @@ let myTechStack = {
       <li><a href="certificates/JS_Algorithms_and_Data_Structures.jpeg">JavaScript Algorithms and Data Structures</a>
       <li><a href="certificates/The_Coding_Interview_Bootcamp_DSA.jpg">The Coding Interview Bootcamp: Algorithms + Data Structures</a>
       <li><a href="certificates/The_Git_and_GitHub_Bootcamp.jpeg">The Git & GitHub Bootcamp</a>
-      <li><a href="udcertificatesemy/The_Complete_Guide_with_React_Hook_Redux.jpeg">The Complete Guide with React Hook Redux</a>
+      <li><a href="certificates/The_Complete_Guide_with_React_Hook_Redux.jpeg">The Complete Guide with React Hook Redux</a>
     </ul>
 </details>
 
